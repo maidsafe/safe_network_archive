@@ -1,4 +1,9 @@
-# Safe Network
+# Safe Network Archive
+
+
+This is an archival version of the section-tree based approach to the Safe Network. The current main libp2p-backed approach can be found at https://github.com/maidsafe/safe_network
+
+## Readme as was:
 
 The Safe Network is a fully autonomous data and communications network. For a general introduction and more information about its features and the problems it intends to solve, please see [The Safe Network Primer](https://primer.safenetwork.org/).
 
